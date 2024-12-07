@@ -3,7 +3,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-position-x: center;
-  background-position-y: -100px;
+  background-position-y: center;
   position: relative;
   overflow: hidden;
   display: flex;
@@ -32,9 +32,9 @@ body {
 #luckyJetIcon.flying,
 #luckyJetIcon.ending {
   border-radius: 2px; 
-  height: 400px;
-  width: 400px;
-  margin-top: 55px;
+  height: 200px;
+  width: 200px;
+  margin-top: 50px;
 }
 
 #endingText {
